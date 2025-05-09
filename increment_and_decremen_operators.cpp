@@ -15,7 +15,7 @@ int main(){
 	
 // more example
 	
-	z = ++x*y;
+	//z = ++x*y;
 	//z = x++*y;
 	
 	std::cout<<x<<'\n'<<y<<'\n'<<z;
